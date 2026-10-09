@@ -1,0 +1,5 @@
+# Copy this file to ../deepseek.properties for local development.
+# Never commit the real API key.
+baseUrl=https://api.deepseek.com/
+model=deepseek-chat
+apiKey=
